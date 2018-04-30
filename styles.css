@@ -1,0 +1,3 @@
+.third ul li:nth-child(0n+3) {
+    background-color:blue;
+}
