@@ -1,3 +1,4 @@
-.third ul li:nth-child(0n+3) {
+/* Only applies the style to the third element in the list in the div */
+.third ul li:nth-child(3) {
     background-color:blue;
 }
